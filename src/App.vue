@@ -70,33 +70,4 @@ deleteRow(item) {
 
 
 
-<!-- добавить условие в месяц и день .поставить 0 впереди -->
-<!-- // generateNum() {
-  //   const convertDate = `${this.randomDate().getDate()}.${this.randomDate().getMonth() + 1}.${this.randomDate().getFullYear()}`
-  //   return {
-  //             date: convertDate,
-  //             rNum: Math.ceil(Math.random() * (100 - (-100) + 1) - 100),
-  //             rPI: Math.ceil(this.desserts[0].rNum * Math.PI),        
-  //   }
-  // }, -->
 
-
-<!-- //  computed: {
-  //    filteredShoes(){
-  //    let des = this.desserts
-  
-  //       for(let i = 0; i < des.length; i++){ 
-  //         des[i].rPI = des[i]*Math.PI
-  //        } // assuming you're modifying each object here
-  //        return des
-     
-  //    },
-  // } -->
-
-
-<!-- 
-// xcode
-// homebrew
-// comands
-// git -->
-[1,2,3,4]
